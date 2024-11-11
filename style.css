@@ -14,4 +14,10 @@ body {
 }
 
 .container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(rgb(6, 1, 1), green, blue, alpha);
+  width: 300px;
+  text-align: center;
 }
